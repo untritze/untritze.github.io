@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://untritze.github.io/sitemap.html
+Sitemap: https://untritze.github.io/fa/sitemap.html
+Sitemap: https://untritze.github.io/fi/sitemap.html
+Sitemap: https://untritze.github.io/fu/sitemap.html
